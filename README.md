@@ -16,7 +16,7 @@
 
 1. it's responsive
 1. it has a title
-it has a favicon
+1. it has a favicon
 1. their favourite colour
 1. their spiritual animal
 1. their favourite sport
@@ -49,6 +49,7 @@ we can print these and hang them around the campus!
 - get to now each other 
 - collaborate and communicate welll 
 - trying to guess your partner details:
+- pay attenion to details 
  
  # MO ! 
  - Get ready beacuse im about to put some funy facts here ? 
