@@ -54,16 +54,4 @@ we can print these and hang them around the campus!
  # MO ! 
  - Get ready beacuse im about to put some funy facts here ? 
  - he agreed with this so were cool. 
-<br>
-<br>
-or scan the following qr code.
-<br>
-<br>
-or scan the following qr code.
-<br>
-<br>
-or scan the following qr code.
-<br>
-<br>
 
-![Qrcode](/image/qrcode_klarida.github.io (1).png)
