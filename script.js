@@ -8,20 +8,27 @@ let rect = ball.getBoundingClientRect();
 ball.style.position = 'relative';
 ball.style.transition = '3s';
 console.log(ball);
+
+
 setInterval(function magic(){
+    let righty = boxRect.right - 57;
+
     if ( rect.x === 9) {
         rect.x = 850;
-        let righty = boxRect.right - 57;
         ball.style.left = righty+'px'
         ball.style.transform = 'rotate(1000deg)'
+
     }
     else if (rect.x === 850){
+        console.log('jhdsjhkdhjbkdqs');
         rect.x = 9; 
         ball.style.left = boxRect.left+'px'
         ball.style.transform = 'rotate(0deg)'
     }
 }, 3000);
 
+
+// changing spiritual animal
 let animal = document.querySelector('.column');
 animal.innerHTML = "";
 function edit() {
