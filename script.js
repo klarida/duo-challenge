@@ -69,7 +69,7 @@ function edit() {
     let pOne = document.createElement('p');
     pOne.innerHTML = ('lion');
     let pTwo = document.createElement('p');
-    pTwo.innerHTML = ('because lion is cool AF like Mo');
+    pTwo.innerHTML = ('because lion is cool AF');
     let img = document.createElement('img')
     img.src = ('https://upload.chatsdumonde.com/img_global/25-le-chat/les-autres-felins/le-lion-morphologie-alimentation-mode-de-vie/_light-1290_14024-un-magnifique-lion-blanc-adulte-allonge-dans-l-herbe.jpg')
     img.setAttribute('width', '150')
